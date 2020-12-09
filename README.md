@@ -1,4 +1,4 @@
-# [Youtube Uploader Bot](https://tx.me/youtubeitbot)
+# [Youtube Uploader Bot]
 
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "YouTube") written in Python3.
 
@@ -31,7 +31,7 @@ This is a simple hobby project which I was really curious about to implement. Th
 **Clone and setup virtual environment**
 
 ``` bash
-$ git clone https://github.com/odysseusmax/utube.git
+$ git clone https://github.com/W4YB3TT3R/utubeupload.git
 
 $ cd utube
 
@@ -116,7 +116,7 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](http://www.youtube.com/watch?v=LSs8b5dMWIA "Tutorial video for deploying to Heroku").
 
-### Contact
+### Credits
 
 You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
 
